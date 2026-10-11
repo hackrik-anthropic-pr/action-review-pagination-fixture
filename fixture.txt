@@ -1,0 +1,2 @@
+Researcher-owned fixture for testing the review-pagination behavior of the
+Anthropic agent approval action. No production or third-party data is used.
